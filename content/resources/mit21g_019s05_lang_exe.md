@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8075848c-dbfb-0db8-08e6-8013f0469a2e
 resourcetype: Document
 title: Language Exercise
 uid: 777e53a3-d030-08d6-6975-e84895d7abb6

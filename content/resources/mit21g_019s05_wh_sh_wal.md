@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8075848c-dbfb-0db8-08e6-8013f0469a2e
 resourcetype: Document
 title: What Should Walther Do
 uid: ba37a803-089d-9a24-3cf4-a2fa9340e7ab

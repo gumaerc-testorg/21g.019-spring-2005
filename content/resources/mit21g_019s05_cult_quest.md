@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8075848c-dbfb-0db8-08e6-8013f0469a2e
 resourcetype: Document
 title: SOME QUESTIONS TO ASK ABOUT CULTURE
 uid: faf52981-f1b3-01ab-784b-75961580e323

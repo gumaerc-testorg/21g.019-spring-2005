@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8075848c-dbfb-0db8-08e6-8013f0469a2e
 resourcetype: Document
 title: Cross Cultural Persuasion
 uid: 002eb44a-690f-dc3b-d658-1323843d6f97

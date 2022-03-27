@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8075848c-dbfb-0db8-08e6-8013f0469a2e
 resourcetype: Document
 title: 964.daphne exercise
 uid: c1d94dd8-5bf7-102b-7c2f-36cf37dc14c9
