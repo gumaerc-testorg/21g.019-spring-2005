@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Instructions for in-class role playing exercises, a cultural self-assessment
+  and a book essay.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -12,17 +14,17 @@ Class Activities
 
 These documents support various in-class activities:
 
-Some Questions to Ask About Culture ([PDF]({{< baseurl >}}/resources/mit21g_019s05_cult_quest))
+Some Questions to Ask About Culture ({{% resource_link faf52981-f1b3-01ab-784b-75961580e323 "PDF" %}})
 
-Intercultural Communication Simulation ([PDF]({{< baseurl >}}/resources/mit21g_019s05_int_co_si))
+Intercultural Communication Simulation ({{% resource_link c1d94dd8-5bf7-102b-7c2f-36cf37dc14c9 "PDF" %}})
 
-What Should Walther Do? ([PDF]({{< baseurl >}}/resources/mit21g_019s05_wh_sh_wal))
+What Should Walther Do? ({{% resource_link ba37a803-089d-9a24-3cf4-a2fa9340e7ab "PDF" %}})
 
-Language Exercise ([PDF]({{< baseurl >}}/resources/mit21g_019s05_lang_exe))
+Language Exercise ({{% resource_link 777e53a3-d030-08d6-6975-e84895d7abb6 "PDF" %}})
 
-Cross Cultural Negotiations ([PDF]({{< baseurl >}}/resources/mit21g_019s05_negot_ex))
+Cross Cultural Negotiations ({{% resource_link 08e41fd8-498c-6590-0eb2-0e9946608d19 "PDF" %}})
 
-Cross Cultural Persuasion ([PDF]({{< baseurl >}}/resources/mit21g_019s05_pers_exe))
+Cross Cultural Persuasion ({{% resource_link 002eb44a-690f-dc3b-d658-1323843d6f97 "PDF" %}})
 
 Cultural Self-Assessment
 ------------------------

@@ -1,12 +1,14 @@
 ---
 content_type: page
+description: The study material section contains a list of suggested readings associated
+  with the course material.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
 uid: 2afef6df-43f6-6365-e25d-71e4d1ce855c
 ---
 
-In addition to the bibliography of related readings below, also see the readings section for the required [readings by class session]({{< baseurl >}}/pages/readings).
+In addition to the bibliography of related readings below, also see the readings section for the required {{% resource_link db403dfa-079a-72d4-fcf3-b2d988911fb7 "readings by class session" %}}.
 
 Suggested Readings
 ------------------
