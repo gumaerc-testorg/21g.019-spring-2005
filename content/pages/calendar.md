@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The calendar section offers information on the course schedule along
+  with the key dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: b05df3a5-e3d0-8ce9-efc0-1aeb65a91055
 ---

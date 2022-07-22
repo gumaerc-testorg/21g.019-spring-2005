@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains list of readings associated with the course material.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: db403dfa-079a-72d4-fcf3-b2d988911fb7
 ---
@@ -9,7 +13,7 @@ Texts
 
 Samovar, Larry A., and Richard E. Porter. _Communication Between Cultures_. 5th ed. Belmont, CA: Wadsworth Publishing Co., 2003. ISBN: 0534569307.
 
-Please see the [study materials]({{< baseurl >}}/pages/study-materials) section for a list of suggested readings.
+Please see the {{% resource_link 2afef6df-43f6-6365-e25d-71e4d1ce855c "study materials" %}} section for a list of suggested readings.
 
 Readings by Session
 -------------------
