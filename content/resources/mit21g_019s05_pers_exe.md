@@ -5,6 +5,7 @@ file: /courses/21g-019-communicating-across-cultures-spring-2005/002eb44a690fdc3
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Cross Cultural Persuasion
 uid: 002eb44a-690f-dc3b-d658-1323843d6f97
 ---
 This resource contains the information regarding cross cultural persuasion.
-

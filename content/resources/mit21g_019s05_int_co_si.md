@@ -5,6 +5,7 @@ file: /courses/21g-019-communicating-across-cultures-spring-2005/c1d94dd85bf7102
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 964.daphne exercise
 uid: c1d94dd8-5bf7-102b-7c2f-36cf37dc14c9
 ---
 This resource contains the information regarding 964 daphne exercise.
-

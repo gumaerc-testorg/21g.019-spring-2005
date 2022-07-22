@@ -5,6 +5,7 @@ file: /courses/21g-019-communicating-across-cultures-spring-2005/777e53a3d03008d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Language Exercise
 uid: 777e53a3-d030-08d6-6975-e84895d7abb6
 ---
 This resource contains the information regarding language exercise.
-
