@@ -2,7 +2,8 @@
   "term": "Spring",
   "year": "2005",
   "level": [
-    "Undergraduate"
+    "Undergraduate",
+    "Graduate"
   ],
   "topics": [
     [
@@ -43,6 +44,7 @@
     "Written Assignments",
     "Presentation Assignments"
   ],
-  "site_uid": "20c5b462-60d2-4466-bcdb-a783264b8438",
+  "site_uid": "0ebc8d76-d073-4286-8205-f09541aaae6f",
+  "short_id": "21g.019-spring-2005",
   "title": "Course Metadata"
 }
