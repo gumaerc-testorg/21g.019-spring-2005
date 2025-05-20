@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding 964 daphne exercise.
-file: /ol-ocw-studio-app/courses/21g-019-communicating-across-cultures-spring-2005/c1d94dd85bf7102b7c2f36cf37dc14c9_MIT21G_019S05_int_co_si.pdf
+file: /courses/21g-019-communicating-across-cultures-spring-2005/c1d94dd85bf7102b7c2f36cf37dc14c9_MIT21G_019S05_int_co_si.pdf
 file_size: 633974
 file_type: application/pdf
 learning_resource_types:
